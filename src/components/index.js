@@ -12,7 +12,7 @@ class Header extends Component {
 		return(
 			
 			<Menu mode='horizontal'>
-				<Menu.Item key="1">
+				<Menu.Item key="0">
 				<Icon type="aliwangwang" />
 					home
 				</Menu.Item>
